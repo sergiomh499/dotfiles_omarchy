@@ -53,17 +53,17 @@
           "id": "gladimdim.config-sync"
         },
         {
-          "id": "jesseburlamaque.antigravity-usage"
-        },
-        {
           "id": "jrmmhm.pocket",
-          "members": "io.github.twiking.omasettings, omaplug, zeru.portwatch, thefreshoffice.speaker-calibrator, gladimdim.config-sync, jesseburlamaque.antigravity-usage"
+          "members": "io.github.twiking.omasettings, omaplug, zeru.portwatch, thefreshoffice.speaker-calibrator, gladimdim.config-sync"
         },
         {
           "id": "omarchy.agents"
         },
         {
           "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "jesseburlamaque.antigravity-usage"
         },
         {
           "id": "jankeesvw.herdr"
