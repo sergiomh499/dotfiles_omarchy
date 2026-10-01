@@ -52,6 +52,13 @@
       "source": "https://github.com/jankeesvw/omarchy-notification-center.git"
     },
     {
+      "id": "jesseburlamaque.antigravity-usage",
+      "name": "Antigravity Usage",
+      "version": "1.3.9",
+      "commit": "76d98844e072ff5041ae425177959f7057019fb4",
+      "source": "https://github.com/jesseburlamaque/antigravity-usage.git"
+    },
+    {
       "id": "jrmmhm.pocket",
       "name": "Pocket",
       "version": "0.4.1",

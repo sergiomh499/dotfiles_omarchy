@@ -53,8 +53,11 @@
           "id": "gladimdim.config-sync"
         },
         {
+          "id": "jesseburlamaque.antigravity-usage"
+        },
+        {
           "id": "jrmmhm.pocket",
-          "members": "io.github.twiking.omasettings, omaplug, zeru.portwatch, thefreshoffice.speaker-calibrator, gladimdim.config-sync"
+          "members": "io.github.twiking.omasettings, omaplug, zeru.portwatch, thefreshoffice.speaker-calibrator, gladimdim.config-sync, jesseburlamaque.antigravity-usage"
         },
         {
           "id": "omarchy.agents"
