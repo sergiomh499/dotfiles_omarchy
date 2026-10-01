@@ -1,0 +1,114 @@
+{
+  "bar": {
+    "centerAnchor": "omarchy.clock",
+    "layout": {
+      "center": [
+        {
+          "id": "omarchy.indicators"
+        },
+        {
+          "format": "dddd HH:mm",
+          "formatAlt": "d MMMM 'W'ww yyyy",
+          "id": "omarchy.clock",
+          "verticalFormat": "HH\n—\nmm"
+        },
+        {
+          "id": "omarchy.system-update"
+        },
+        {
+          "id": "omarchy.weather"
+        }
+      ],
+      "left": [
+        {
+          "id": "omarchy.menu"
+        },
+        {
+          "id": "tornikegomareli.spaces"
+        },
+        {
+          "id": "omarchy.media"
+        }
+      ],
+      "right": [
+        {
+          "id": "omarchy.tray"
+        },
+        {
+          "id": "wian47.removable-drives"
+        },
+        {
+          "id": "io.github.twiking.omasettings"
+        },
+        {
+          "id": "omaplug"
+        },
+        {
+          "id": "zeru.portwatch"
+        },
+        {
+          "id": "thefreshoffice.speaker-calibrator"
+        },
+        {
+          "id": "gladimdim.config-sync"
+        },
+        {
+          "id": "jrmmhm.pocket",
+          "members": "io.github.twiking.omasettings, omaplug, zeru.portwatch, thefreshoffice.speaker-calibrator, gladimdim.config-sync"
+        },
+        {
+          "id": "omarchy.agents"
+        },
+        {
+          "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "jankeesvw.herdr"
+        },
+        {
+          "id": "omarchy.bluetooth"
+        },
+        {
+          "id": "omarchy.network"
+        },
+        {
+          "id": "omarchy.audio"
+        },
+        {
+          "id": "crmne.hyprmoncfg"
+        },
+        {
+          "id": "omarchy.power"
+        },
+        {
+          "id": "jankeesvw.notification-center"
+        },
+        {
+          "id": "blackcode.power-menu"
+        }
+      ]
+    },
+    "position": "top",
+    "transparent": true,
+    "id": "charlieras262.floating-bar"
+  },
+  "idle": {
+    "lock": 300,
+    "screensaver": 150
+  },
+  "plugins": [
+    {
+      "id": "io.github.sirjul1337.lock-explorer",
+      "design": "classic",
+      "boot": "follow",
+      "unlock": "fade"
+    }
+  ],
+  "version": 1,
+  "disabledPlugins": [
+    "omarchy.lock"
+  ],
+  "cloneSourceRestores": [
+    "io.github.sirjul1337.lock-explorer"
+  ]
+}

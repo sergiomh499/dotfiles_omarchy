@@ -1,0 +1,7 @@
+#!/bin/bash
+# omarchy post-boot hook: ensure EasyEffects service is running
+# Loaded via: omarchy-hook post-boot (called from Hyprland autostart.conf exec-once)
+
+if ! pgrep -x easyeffects > /dev/null; then
+  uwsm-app -- easyeffects --gapplication-service &
+fi

@@ -1,0 +1,97 @@
+{
+  "format": "omarchy-config-plugins",
+  "version": 1,
+  "plugins": [
+    {
+      "id": "blackcode.power-menu",
+      "name": "Power Menu",
+      "version": "1.0.0",
+      "commit": "2a66cf67746a77d5d14e31d2f359de484dea68bb",
+      "source": "https://github.com/alshareedah22/omarchy-power-menu.git"
+    },
+    {
+      "id": "charlieras262.floating-bar",
+      "name": "Floating Bar",
+      "version": "1.6.0",
+      "commit": "5e7dc23421f1f774e5c329cc2397b5825900b75e",
+      "source": "https://github.com/Charlieras262/omarchy-floating-bar.git"
+    },
+    {
+      "id": "crmne.hyprmoncfg",
+      "name": "hyprmoncfg: Multi-Monitor Manager for Omarchy",
+      "version": "2.7.0",
+      "commit": "f376369d9f9d7fe6e80268d4c1c54548b470d4a6",
+      "source": "https://github.com/crmne/omarchy-hyprmoncfg.git"
+    },
+    {
+      "id": "io.github.sirjul1337.lock-explorer",
+      "name": "Lock Screen Explorer",
+      "version": "1.9.1",
+      "commit": "ea73799fee87af4bad5941f118bcda1317e57cb4",
+      "source": "https://github.com/SirJul1337/omarchy-lock-explorer.git"
+    },
+    {
+      "id": "io.github.twiking.omasettings",
+      "name": "OmaSettings",
+      "version": "1.3.0",
+      "commit": "72cfe1640aaece2fef39e4dd155289510f07b2a8",
+      "source": "https://github.com/twiking/omasettings.git"
+    },
+    {
+      "id": "jankeesvw.herdr",
+      "name": "Herdr",
+      "version": "1.2.0",
+      "commit": "78226e4c3eb3848301946b8c4a059d57c7ef9dfa",
+      "source": "https://github.com/jankeesvw/omarchy-herdr.git"
+    },
+    {
+      "id": "jankeesvw.notification-center",
+      "name": "Notification Center",
+      "version": "1.1.0",
+      "commit": "e4c4568daaf93751097f86a79f98b35c4c00da44",
+      "source": "https://github.com/jankeesvw/omarchy-notification-center.git"
+    },
+    {
+      "id": "jrmmhm.pocket",
+      "name": "Pocket",
+      "version": "0.4.1",
+      "commit": "ec3f769ce16b446ca38191d1d480a7a7ac2a1533",
+      "source": "https://github.com/jrmmhm/omarchy-pocket.git"
+    },
+    {
+      "id": "omaplug",
+      "name": "Plugin Manager",
+      "version": "1.6.5",
+      "commit": "9da73fc13fc2027be5b44915b4ab89440beb74ab",
+      "source": "https://github.com/fross100/omaplug.git"
+    },
+    {
+      "id": "thefreshoffice.speaker-calibrator",
+      "name": "Speaker Calibrator",
+      "version": "1.2.0",
+      "commit": "b142b0208cc086adc53dbdad78a73207a3075854",
+      "source": "https://github.com/thefreshoffice/omarchy-speaker-calibrator.git"
+    },
+    {
+      "id": "tornikegomareli.spaces",
+      "name": "Spaces",
+      "version": "1.1.0",
+      "commit": "03dca22bd304e5aca147942849f320e865d8e0cb",
+      "source": "https://github.com/tornikegomareli/omarchy-spaces.git"
+    },
+    {
+      "id": "wian47.removable-drives",
+      "name": "Removable Drives",
+      "version": "1.8.0",
+      "commit": "f46384be00f030e67d6be10d5e60bf6a20a8001d",
+      "source": "https://github.com/Wian47/omarchy-removable-drives.git"
+    },
+    {
+      "id": "zeru.portwatch",
+      "name": "Port Watch",
+      "version": "1.0.0",
+      "commit": "9878e488a4c7d90977a0944258e336756ac1768e",
+      "source": "https://github.com/ZerubbabelT/portwatch.git"
+    }
+  ]
+}
