@@ -3,9 +3,19 @@
 hl.monitor({
   output = "desc:Thermotrex Corporation TL160ADMP03-0",
   mode = "2560x1600@240.00",
-  position = "0x0",
+  position = "-89x0",
   scale = 1.6,
   vrr = 0,
+  sdr_min_luminance = 0.2,
+  sdr_max_luminance = 80,
+})
+
+hl.monitor({
+  output = "desc:Microstep MSI MAG401QR 0000000000001",
+  mode = "3440x1440@155.00",
+  position = "-1004x-1440",
+  scale = 1,
+  vrr = 2,
   sdr_min_luminance = 0.2,
   sdr_max_luminance = 80,
 })
@@ -13,9 +23,6 @@ hl.monitor({
 hl.workspace_rule({ workspace = "1", monitor = "desc:Thermotrex Corporation TL160ADMP03-0", default = true, persistent = true })
 hl.workspace_rule({ workspace = "2", monitor = "desc:Thermotrex Corporation TL160ADMP03-0" })
 hl.workspace_rule({ workspace = "3", monitor = "desc:Thermotrex Corporation TL160ADMP03-0" })
-hl.workspace_rule({ workspace = "4", monitor = "desc:Thermotrex Corporation TL160ADMP03-0" })
-hl.workspace_rule({ workspace = "5", monitor = "desc:Thermotrex Corporation TL160ADMP03-0" })
-hl.workspace_rule({ workspace = "6", monitor = "desc:Thermotrex Corporation TL160ADMP03-0" })
 hl.workspace_rule({ workspace = "7", monitor = "desc:Thermotrex Corporation TL160ADMP03-0" })
 hl.workspace_rule({ workspace = "8", monitor = "desc:Thermotrex Corporation TL160ADMP03-0" })
 hl.workspace_rule({ workspace = "9", monitor = "desc:Thermotrex Corporation TL160ADMP03-0" })
