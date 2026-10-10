@@ -20,14 +20,14 @@
       "id": "crmne.hyprmoncfg",
       "name": "hyprmoncfg: Multi-Monitor Manager for Omarchy",
       "version": "2.7.0",
-      "commit": "f376369d9f9d7fe6e80268d4c1c54548b470d4a6",
+      "commit": "193e5611f934eec42460ef75f3f46c2a8bd0252a",
       "source": "https://github.com/crmne/omarchy-hyprmoncfg.git"
     },
     {
       "id": "io.github.sirjul1337.lock-explorer",
       "name": "Lock Screen Explorer",
-      "version": "1.9.1",
-      "commit": "ea73799fee87af4bad5941f118bcda1317e57cb4",
+      "version": "1.9.7",
+      "commit": "7faf2cce10e3008f69ad12d66273c81886e4a834",
       "source": "https://github.com/SirJul1337/omarchy-lock-explorer.git"
     },
     {
@@ -40,15 +40,15 @@
     {
       "id": "jankeesvw.herdr",
       "name": "Herdr",
-      "version": "1.2.0",
-      "commit": "78226e4c3eb3848301946b8c4a059d57c7ef9dfa",
+      "version": "1.2.1",
+      "commit": "7e1ceea54df68b5d0c215d3a185f136d30ba1a6d",
       "source": "https://github.com/jankeesvw/omarchy-herdr.git"
     },
     {
       "id": "jankeesvw.notification-center",
       "name": "Notification Center",
       "version": "1.1.0",
-      "commit": "e4c4568daaf93751097f86a79f98b35c4c00da44",
+      "commit": "85b2fc72b58d3be2ce1287a68dd117e6939a17fa",
       "source": "https://github.com/jankeesvw/omarchy-notification-center.git"
     },
     {
@@ -61,15 +61,15 @@
     {
       "id": "jrmmhm.pocket",
       "name": "Pocket",
-      "version": "0.4.1",
-      "commit": "ec3f769ce16b446ca38191d1d480a7a7ac2a1533",
+      "version": "0.5.0",
+      "commit": "81c90494f812c9f58a66e8a0e68a78c59197c1c0",
       "source": "https://github.com/jrmmhm/omarchy-pocket.git"
     },
     {
       "id": "omaplug",
       "name": "Plugin Manager",
-      "version": "1.6.5",
-      "commit": "9da73fc13fc2027be5b44915b4ab89440beb74ab",
+      "version": "1.6.6",
+      "commit": "64df56e876846247ded550890c52b7b190776b3e",
       "source": "https://github.com/fross100/omaplug.git"
     },
     {
@@ -82,8 +82,8 @@
     {
       "id": "tornikegomareli.spaces",
       "name": "Spaces",
-      "version": "1.1.0",
-      "commit": "03dca22bd304e5aca147942849f320e865d8e0cb",
+      "version": "1.3.0",
+      "commit": "9747f1f6ca5533a441bba24b7b292c2cde502a2a",
       "source": "https://github.com/tornikegomareli/omarchy-spaces.git"
     },
     {
