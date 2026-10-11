@@ -99,7 +99,7 @@
       ]
     },
     "position": "top",
-    "transparent": false,
+    "transparent": true,
     "id": "charlieras262.floating-bar"
   },
   "idle": {
