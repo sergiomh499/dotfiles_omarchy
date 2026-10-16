@@ -73,6 +73,13 @@
       "source": "https://github.com/fross100/omaplug.git"
     },
     {
+      "id": "sergiomh499.omp-usage",
+      "name": "OMP Usage",
+      "version": "1.0.0",
+      "commit": "79e76afca1c94b7b5c98eec6b983596424a9aab1",
+      "source": "git@github.com:sergiomh499/omp-usage.git"
+    },
+    {
       "id": "thefreshoffice.speaker-calibrator",
       "name": "Speaker Calibrator",
       "version": "1.2.0",

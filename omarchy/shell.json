@@ -24,7 +24,15 @@
           "id": "omarchy.menu"
         },
         {
-          "id": "tornikegomareli.spaces"
+          "id": "tornikegomareli.spaces",
+          "activeStyle": "subtle",
+          "labelStyle": "number",
+          "density": "normal",
+          "settingsButton": "never",
+          "iconStyle": "color",
+          "showApps": "all",
+          "groupApps": true,
+          "focusedTitle": false
         },
         {
           "id": "omarchy.media"
@@ -33,9 +41,6 @@
       "right": [
         {
           "id": "omarchy.tray"
-        },
-        {
-          "id": "wian47.removable-drives"
         },
         {
           "id": "io.github.twiking.omasettings"
@@ -54,13 +59,20 @@
         },
         {
           "id": "jrmmhm.pocket",
-          "members": "io.github.twiking.omasettings, omaplug, zeru.portwatch, thefreshoffice.speaker-calibrator, gladimdim.config-sync"
+          "members": "io.github.twiking.omasettings, omaplug, zeru.portwatch, thefreshoffice.speaker-calibrator, gladimdim.config-sync",
+          "pinned": ""
         },
         {
           "id": "omarchy.agents"
         },
         {
           "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "wian47.removable-drives"
+        },
+        {
+          "id": "sergiomh499.omp-usage"
         },
         {
           "id": "jesseburlamaque.antigravity-usage",
@@ -99,7 +111,7 @@
       ]
     },
     "position": "top",
-    "transparent": true,
+    "transparent": false,
     "id": "charlieras262.floating-bar"
   },
   "idle": {
