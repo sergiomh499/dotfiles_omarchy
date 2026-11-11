@@ -13,6 +13,31 @@
           "verticalFormat": "HH\n—\nmm"
         },
         {
+          "id": "omarchy.elsewhen",
+          "cities": [
+            {
+              "name": "Madrid",
+              "zone": "Europe/Madrid"
+            },
+            {
+              "name": "Dubai",
+              "zone": "Asia/Dubai"
+            },
+            {
+              "name": "Tokyo",
+              "zone": "Asia/Tokyo"
+            },
+            {
+              "name": "Los Angeles",
+              "zone": "America/Los_Angeles"
+            },
+            {
+              "name": "New York",
+              "zone": "America/New_York"
+            }
+          ]
+        },
+        {
           "id": "omarchy.system-update"
         },
         {
@@ -63,26 +88,13 @@
           "pinned": ""
         },
         {
-          "id": "omarchy.agents"
-        },
-        {
           "id": "omarchy.keyboard-layout"
         },
         {
           "id": "wian47.removable-drives"
         },
         {
-          "id": "sergiomh499.omp-usage"
-        },
-        {
-          "id": "jesseburlamaque.antigravity-usage",
-          "refreshIntervalSec": 60,
-          "showBadge": true,
-          "badgeMode": "active",
-          "enableQuotaAlerts": true,
-          "quotaAlertThreshold": 15,
-          "terminalCommand": "",
-          "recentSessionsLimit": 5
+          "id": "omarchy.agents"
         },
         {
           "id": "jankeesvw.herdr"
@@ -108,7 +120,10 @@
         {
           "id": "blackcode.power-menu"
         }
-      ]
+      ],
+      "centerBegin": [],
+      "centerEnd": [],
+      "tray": []
     },
     "position": "top",
     "transparent": false,
