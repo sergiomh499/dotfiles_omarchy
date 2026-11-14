@@ -24,6 +24,13 @@
       "source": "https://github.com/crmne/omarchy-hyprmoncfg.git"
     },
     {
+      "id": "io.github.salemsayed.omawarden",
+      "name": "OmaWarden",
+      "version": "1.1.8",
+      "commit": "5b0f681c25b21ee0ce987feffa773528a0ec9955",
+      "source": "https://github.com/salemsayed/omawarden.git"
+    },
+    {
       "id": "io.github.sirjul1337.lock-explorer",
       "name": "Lock Screen Explorer",
       "version": "2.0.12",
